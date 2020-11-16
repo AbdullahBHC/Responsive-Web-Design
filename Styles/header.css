@@ -1,0 +1,88 @@
+body {
+    width: 100%;
+    height: 100%;
+    overflow-x: hidden !important;
+}
+
+.Header {
+    background: purple;
+    height: 135px;
+    width: 100%;
+    float: left;
+}
+
+.headerlogo,
+.headermenu {
+    float: left;
+    color: #E5E4E4;
+}
+
+.headerlogo{
+    max-width: 30%;
+    min-width: 20%;
+    height: 100%;
+}
+
+.headermenu{
+    float: right !important;
+    max-width: 75%;
+    min-width: 60%;
+    height: 100%;
+}
+
+.logo {
+    cursor: pointer;
+    width: 35px;
+    height: 35px;
+    position: relative;
+    top: 15px;
+    margin-left: 20px;
+}
+
+.companyname {
+    cursor: pointer;
+    display: inline-block;
+    margin-top: 50px;
+    margin-left: 10px;
+    font-size: 23px;
+    font-family: 'Montserrat';
+    font-weight: 900;
+    letter-spacing: 2px;
+}
+
+.menu {
+    list-style-type: none;
+    float: right;
+}
+
+.menuitem {
+    height: 30px;
+    width: 120px;
+    padding-top: 10px;
+    text-align: center;
+    float: right;
+    position: relative;
+    top: 35px;
+    color: #E5E4E4;
+    right: 50px;
+    margin-left: 10px;
+    font-size: 18px;
+    font-family: 'Montserrat';
+    font-weight:500;
+    letter-spacing: 2px;
+    color: #E5E4E4;
+    cursor: pointer;
+}
+
+#menuitem{
+    background: #F7F8F8;
+    margin-left: 10px;
+    color: #612A85 !important;
+}
+
+@media screen and (max-width:990px){
+ .headermenu{
+     width: 100%;
+     float: right;
+ }   
+}

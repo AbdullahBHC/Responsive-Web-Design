@@ -1,0 +1,433 @@
+.MiddleArea {
+    width: 100%;
+    height: fit-content;
+    position: relative;
+    object-fit: cover;
+}
+
+.WeAreLifeChangers {
+    background: #1A1818;
+    width: 100%;
+    min-height: 1100px;
+    display: block;
+   height: auto;
+    object-fit: fill;
+}
+
+.WeTexts,
+.WeShapes {
+    float: left;
+    width: 45%;
+    min-width: 45%;
+    display: block;
+    height: auto;
+     object-fit: fill;
+}
+
+.WeTexts {
+    margin-top: 10%;
+    margin-left: 5%;
+    text-align: justify;
+}
+
+.WeTexts .title {
+    color: white;
+    font-size: 54px;
+    font-family: 'Montserrat';
+    font-weight: 600;
+}
+
+.titlespan {
+    color: #612A85;
+    font-weight: 700 !important;
+}
+
+.WeTexts .text {
+    color: white;
+    width: 90%;
+    font-size: 22px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+.WeTexts .button1 {
+    color: #612A85;
+    background: transparent;
+    border: 1px solid #612A85;
+    padding: 1.5% 5%;
+    display: inline-block;
+    margin-right: 3%;
+    cursor: pointer;
+}
+
+.WeTexts .button2 {
+    color: #FDF8FB;
+    background: #612A85;
+    border: 0px;
+    padding: 1.5% 5%;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.imgisadami {
+    width: 50%;
+    object-fit: contain;
+    margin-top: 30%;
+    float: left;
+
+}
+
+.ellipse {
+    width: 250px;
+    height: 250px;
+    border: 1px solid #612A85;
+    background: #612A85;
+    border-radius: 100%;
+    margin-top: 20%;
+    margin-right: 20%;
+    float: right;
+}
+
+.ellipse1 {
+    width: 100px;
+    height: 100px;
+    border: 1px solid #612A85;
+    background: #612A85;
+    border-radius: 100%;
+    float: right;
+    margin-top: -40%;
+    margin-right: 10%;
+}
+
+
+
+.WhoWeAreArea {
+    width: 80%;
+    height: 900px;
+}
+
+.WhoWeAre {
+    width: 100%;
+    height: 30%;
+    margin-left: 10%;
+    margin-right: auto;
+}
+
+.WhoWeAre .title {
+    color: #612A85;
+    text-align: center;
+    font-size: 54px;
+    font-family: 'Montserrat';
+    font-weight: 800;
+    letter-spacing: 2px;
+    margin-top: 5%;
+}
+
+.WhoWeAre .text {
+    color: #101210;
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: center;
+    font-size: 16px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.group {   
+    width: 100%;
+    float: left;
+    min-height: 400px;
+
+    object-fit: cover;
+    margin-left: 10%;
+    padding-top: 5%;
+    height: fit-content;
+    position: relative;
+}
+
+.groupoda {
+    margin-left: 0px !important;
+    width: 40% !important;
+
+}
+
+.imgoda {
+    width: 100%;
+    height: 400px;
+}
+
+.group1 .img {
+    width: 60px;
+    height: 60px;
+    object-fit: contain;
+    margin-top: 0px;
+}
+
+.group1,
+.group2,
+.group3,
+.groupoda {
+    object-fit: cover;
+    width: 15%;
+    height: 400px;
+    float: left;
+    margin-left: 3%;
+    padding-right: 1%;
+}
+
+.group p {
+    margin-left: 5%;
+}
+
+.group1 .title {
+    color: #1B181E;
+    font-size: 25px;
+    font-family: 'Montserrat';
+    font-weight: 600;
+}
+
+.group1 .text {
+    color: #101210;
+    font-size: 16px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: justify;
+    margin-top: 30px;
+}
+
+.group1 .title {
+    color: #1B181E;
+    font-size: 25px;
+    font-family: 'Montserrat';
+    font-weight: 600;
+    margin-top: 10px;
+ 
+}
+
+
+.group1 .button {
+    color: #773D8F;
+    border: 1px solid #773D8F;
+    max-width: 60%;
+    text-align: center;
+    margin-top: 30px;
+    height: 30px;
+    padding-top: 4%;
+    cursor: pointer;
+}
+
+.WhyChooseUs {
+    width: 80%;
+    height: 650px;
+    background: #612A85;
+    padding: 2%;
+    margin-top: 5%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.WhyTexts {
+    height: 50%;
+}
+
+.WhyTexts .title {
+    font-size: 53px;
+    font-family: 'Montserrat';
+    font-weight: 800;
+    color: #FFFFFF;
+    text-align: center;
+    letter-spacing: 2px;
+}
+
+.WhyTexts .text {
+    font-size: 16px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #FFFFFF;
+    text-align: center;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    word-spacing: 2px;
+    line-height: 30px;
+}
+
+.WhyShapes {
+    height: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.WhyShapes .img {
+    float: left;
+    height: 60px;
+    width: 60px;
+    padding: 10%;
+    border: 3px solid white;
+    border-radius: 100%;
+}
+
+.divimg {
+    cursor: pointer;
+    float: left;
+    margin-left: 10%;
+    margin-right: 0%;
+    height: 100px;
+    width: 150px;
+}
+
+.divimg p {
+    width: 100%;
+    height: 30px;
+    text-align: center;
+    color: #FFFFFF;
+    font-size: 25px;
+    font-family: 'Montserrat';
+    font-weight: 600;
+    margin-top: 100%;
+}
+
+.OurExperts {
+    width: 80%;
+    height: 1000px;
+    background: #FFFFFF;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 2%;
+}
+
+.OurTexts {
+    height: 20%;
+}
+
+.OurTexts .title {
+    color: #612A85;
+    font-size: 54px;
+    font-family: 'Montserrat';
+    font-weight: 800;
+    text-align: center;
+    letter-spacing: 2px;
+    margin: 0%;
+}
+
+.OurTexts .text {
+    color: #101210;
+    font-size: 16px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 90%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 25px;
+    margin-top: 2%;
+}
+
+.OurUsers {
+    height: 80%;
+}
+
+.OurUsers .Users {
+    width: 100%;
+    height: 30%;
+}
+
+.OurUsers .Users .usera {
+    width: 45%;
+    height: 100%;
+    float: left;
+}
+
+.OurUsers .Users .userb {
+    width: 45%;
+    height: 100%;
+    float: right;
+}
+
+.usera .imgdiv , .userb .imgdiv{
+    width: 150px;
+    height: 150px;
+    float: left;
+    border: 3px solid darkgray;
+    border-radius: 100%;
+    padding-left: 25px;
+    padding-right: 0px;
+    padding-top: 25px;
+    margin-top: 20px;
+}
+
+.usera img,
+.userb img {
+    width: 100px;
+    height: 100px;
+ 
+}
+
+.usera .title,
+.usera .text,
+.userb .title,
+.userb .text {
+    width: 60%;
+    float: left;
+    text-align: center;
+    margin-left: 10px;
+}
+
+
+.usera .title,
+.userb .title {
+    color: #612A85;
+    text-align: left;
+    font-size: 28px;
+    font-family: 'Montserrat';
+    font-weight: 700;
+    margin-top: 10px;
+}
+
+.usera .text,
+.userb .text {
+
+    color: #101210;
+    line-height: 20px;
+    margin-top: -10px;
+    text-align: justify;
+    font-size: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.usera .buttonf,
+.usera .buttong,
+.usera .buttont,
+.userb .buttonf,
+.userb .buttong,
+.userb .buttont {
+    line-height: 50px;
+    float: left;
+    width: 50px;
+    height: 50px;
+    margin-right: 30px;
+    border-radius: 100%;
+    background: #161418;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.buttong {
+    background: #612A85 !important;
+}
+
+.buttonf {
+    margin-left: 0px !important;
+}
+
+@media  (max-width : 750px){
+.WeTexts,.WeShapes{
+    width:100%;
+    max-width: 100%;
+}
+.imgisadami{margin-top: 0%;}
+
+.group{
+    min-height: 800px;
+    display: table;
+}
+.group1{
+    width: 30%;
+}
+}

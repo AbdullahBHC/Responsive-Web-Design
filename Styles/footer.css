@@ -1,0 +1,168 @@
+.Footer {
+    width: 100%;
+    height: 500px;
+    background: #612A85;
+    overflow-x: hidden;
+}
+
+.Footer .group1,
+.Footer .group2,
+.Footer .group3,
+.Footer .group4 {
+    width: 24%;
+    height: 100%;
+    float: left;
+    margin: 0px;
+}
+
+.Footer .logo {
+    width: 35px;
+    height: 35px;
+    margin-top: 25%;
+}
+
+.Footer .group1 .title {
+    font-size: 23px;
+    font-family: 'Montserrat';
+    font-weight: 900;
+    color: #E5E4E4;
+    margin-left: 20px;
+    display: inline-block;
+}
+
+.Footer .group1 .text {
+    margin-top: 20px;
+    width: 70%;
+    text-align: justify;
+    margin-left: auto;
+    margin-right: 30px;
+    font-size: 12px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #E5E4E4;
+}
+
+.Footer .group1 #text {
+    margin-top: 40px;
+}
+
+.Footer .group2 .title {
+    font-size: 23px;
+    font-family: 'Montserrat';
+    font-weight: 600;
+    margin-top: 25%;
+    margin-bottom: 40px;
+    color: #E5E4E4;
+    text-align: justify;
+    margin-left: 50px;
+}
+
+.Footer .group2 .text {
+    line-height: 25px;
+    margin-bottom: 30px;
+    margin-left: 50px;
+    text-align: justify;
+    width: 80%;
+    font-size: 12px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #E5E4E4;
+}
+
+.border {
+    margin-right: 20px;
+    color: #E5E4E4;
+    border: 1px solid #E5E4E4;
+    background: #E5E4E4;
+}
+
+.Footer .group3 .title {
+    font-size: 23px;
+    font-family: 'Montserrat';
+    font-weight: 600;
+    margin-top: 25%;
+    margin-bottom: 40px;
+    color: #E5E4E4;
+    text-align: justify;
+    margin-left: 50px;
+}
+
+.Footer .group3 .img {
+    width: 100px;
+    height: 50px;
+    border: 1px solid #E5E4E4;
+    padding: 2%;
+    margin-left: 50px;
+}
+
+.Footer .group3 .text {
+    font-size: 15px;
+    font-family: 'Montserrat';
+    font-weight: 600;
+    color: #E5E4E4;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: justify;
+    margin-left: 50px;
+}
+
+.Footer .group3 .text1 {
+    width: 80%;
+    font-size: 12px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #E5E4E4;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    text-align: justify;
+    margin-left: 50px;
+}
+
+.Footer .group4 .title {
+    font-size: 23px;
+    font-family: 'Montserrat';
+    font-weight: 600;
+    margin-top: 25%;
+    margin-bottom: 40px;
+    color: #E5E4E4;
+    text-align: justify;
+    margin-left: 50px;
+}
+
+.Footer .group4 .title2 {
+    font-size: 23px;
+    font-family: 'Montserrat';
+    font-weight: 600;
+    color: #E5E4E4;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    text-align: justify;
+    margin-left: 50px;
+}
+
+.Footer .group4 .text {
+    width: 80%;
+    font-size: 12px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #E5E4E4;
+    margin-top: 20px;
+    margin-bottom: 0px;
+    text-align: justify;
+    margin-left: 50px;
+}
+
+#text {
+    margin-top: 5px;
+}
+
+.accounts .img {
+    cursor: pointer;
+    width: 30px;
+    height: 30px;
+    border: 3px solid white;
+    border-radius: 100%;
+    padding: 2%;
+    margin-top: -20px;
+    margin-right: 10px;
+}
+
+.accounts #img{
+margin-left: 50px;
+}
